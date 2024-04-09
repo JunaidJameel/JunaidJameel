@@ -41,5 +41,5 @@
 
 - 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1senG9Nv2S7GyDC6L1swdNEQwKzMeF5rl/view?usp=sharing)
 
-- ⚡ Fun fact ** I've spent more time talking to my code than to actual people.**
+- ⚡ Fun fact **I've spent more time talking to my code than to actual people**
 
