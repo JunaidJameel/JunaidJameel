@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/JunaidJameel">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
