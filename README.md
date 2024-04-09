@@ -14,7 +14,6 @@
 
 </p>
 
-<br>
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="https://www.linkedin.com/in/junaid-jameel-6298bb26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="35" width="35" /></a>
