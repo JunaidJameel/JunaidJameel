@@ -33,13 +33,11 @@
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Back-End Dev**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 💬 Ask me about **Flutter, Dart, Firebase and API**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
-
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **JunaidSuperCoder@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
