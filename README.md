@@ -1,3 +1,39 @@
+### 👋 Hi, I'm Junaid Jameel (he/him)
+
+🚀 Flutter Developer | Passionate about UI and mobile performance  
+📱 Helping devs build better apps with Flutter  
+🎯 Always learning, always shipping!
+
+---
+
+🏢 Working at [InnovitaSoft](https://innovitasoft.com)  
+🌍 Based in Pakistan | UTC+05:00  
+📬 Reach me at: junaid.yourname@gmail.com  
+
+---
+
+### 🌐 Connect with me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://junaid.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaidjameel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/junaidjameel)
+
+---
+
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+📊 **GitHub Stats**
+
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidjameel&show_icons=true&theme=github_dark)
+
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Junaid Jameel</h1>
