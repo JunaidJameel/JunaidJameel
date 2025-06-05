@@ -30,17 +30,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
----
-
-📊 **GitHub Stats**
-
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=junaidjameel&show_icons=true&theme=github_dark)
 
 
 
 
-
-🛠️</p>
+</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
 
