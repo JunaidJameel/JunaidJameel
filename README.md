@@ -6,7 +6,7 @@
 
 ---
 
-🏢 Working at [InnovitaSoft](https://innovitasoft.com)  
+🏢 Working at : I'm Self-emPloyed
 🌍 Based in Pakistan | UTC+05:00  
 📬 Reach me at: junaidsupercoder@gmail.com
 
