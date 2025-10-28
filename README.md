@@ -28,8 +28,8 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br> -->
 
 
 
@@ -41,7 +41,7 @@
 </p>
 
 
-<img src="https://i.pinimg.com/originals/82/0d/58/820d58e0feed0ba879d62b9c5834225c.gif" height="20" width="100%">
+<img src="https://i.pinimg.com/originals/82/0d/58/820d58e0feed0ba879d62b9c5834225c.gif" height="100" width="100%">
 
 
 
