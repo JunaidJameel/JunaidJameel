@@ -41,7 +41,7 @@
 </p>
 
 
-<img src="https://i.pinimg.com/originals/82/0d/58/820d58e0feed0ba879d62b9c5834225c.gif" height="150" width="50%">
+<img src="https://i.pinimg.com/originals/82/0d/58/820d58e0feed0ba879d62b9c5834225c.gif" height="300" width="50%">
 
 
 
