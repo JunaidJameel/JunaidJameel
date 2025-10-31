@@ -24,7 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
 <br><br>
 
-![Junaid Jameel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunaidJameel&show_icons=true&theme=dark)
 
 
 
