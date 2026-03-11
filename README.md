@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Junaid Jameel 
 
-Flutter Developer | Passionate about UI & mobile performance 
+Software Engineer | Flutter Developer | Passionate about UI & Mobile performance 
 
 ---
 
