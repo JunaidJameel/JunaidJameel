@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Junaid Jameel 
+### 👋 Hi, I'm Junaid Jamel 
 
 Software Engineer | Flutter Developer | Passionate about UI & Mobile performance 
 
