@@ -4,7 +4,7 @@ Software Engineer | Flutter Developer | Passionate about UI & Mobile performance
 
 ---
 
-🏢 **Working at**: I'm Self-employed  
+🏢 **Working at**: Sistema Solutions
 🌍 **Based in**: Pakistan | UTC+05:00  
 📬 **Reach me at**: junaidsupercoder@gmail.com  
 
