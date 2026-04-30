@@ -50,6 +50,5 @@ Software Engineer | Flutter Developer | Passionate about UI & Mobile performance
 
 - 💬 Ask me about **Flutter, Dart, Firebase and API**
 
-- 📫 How to reach me **JunaidSuperCoder@gmail.com**
 
 
