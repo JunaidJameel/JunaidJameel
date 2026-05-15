@@ -1,6 +1,9 @@
 ### 👋 Hi, I'm Junaid Jamel 
 
-Software Engineer | Flutter Developer | Passionate about UI & Mobile performance 
+Software Engineer
+
+I have a keen interest in understanding what it takes to build large-scale, high-impact products and industry-leading services. I'm exploring the complexities of creating and sustaining such transformative solutions.
+
 
 ---
 
