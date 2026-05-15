@@ -47,11 +47,6 @@ I have a keen interest in understanding what it takes to build large-scale, high
 
 
 
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **Back-End Dev**
-
-- 💬 Ask me about **Flutter, Dart, Firebase and API**
 
 
 
