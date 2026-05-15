@@ -15,11 +15,7 @@ I have a keen interest in understanding what it takes to build large-scale, high
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel-6298bb26b)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
-[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel-6298bb26b) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel) [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
 ---
 
 ### Languages and Tools:
