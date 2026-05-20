@@ -42,18 +42,8 @@ I focus on clean architecture, performance, and real business impact, from proto
 
 ---
 
-## Experience
-
-**Flutter Engineer** — Sistema Solutions *(current)*  
-**Software Engineer (Flutter)** — Dcodax Pvt. Ltd  
-**Flutter Developer** — Funsol Technologies  
-**Flutter Developer** — Dedev  
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel-6298bb26b)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-junaidjamel.com-333?style=flat-square)](https://www.junaidjamel.com)
