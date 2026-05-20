@@ -12,7 +12,7 @@
 
 <br/>
 
-**Flutter Engineer** building scalable, AI-powered cross-platform apps. I focus on clean architecture, performance, and real business impact — from prototyping to distribution.
+**Flutter Engineer** building scalable, AI-powered cross-platform apps.
 
 Currently at **Sistema Solutions** · 📍 Pakistan · UTC+05:00
 
