@@ -2,7 +2,7 @@
 
 **Flutter Engineer** · Building scalable, AI-powered cross-platform apps.
 
-I focus on clean architecture, performance, and real business impact — from prototyping to App Store / Play Store delivery.
+I focus on clean architecture, performance, and real business impact, from prototyping to distribution.
 
 🌐 **Portfolio & case studies**: [junaidjamel.com](https://www.junaidjamel.com)  
 🏢 **Currently at**: Sistema Solutions  
