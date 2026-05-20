@@ -1,48 +1,59 @@
-### 👋 Hi, I'm Junaid Jamel 
+# Junaid Jamel
 
-Software Engineer
+**Flutter Engineer** · Building scalable, AI-powered cross-platform apps for 4+ years.
 
-I have a keen interest in understanding what it takes to build large-scale, high-impact products and industry-leading services. I'm exploring the complexities of creating and sustaining such transformative solutions.
+I focus on clean architecture, performance, and real business impact — from prototyping to App Store / Play Store delivery.
 
-
----
-
-🏢 **Working at**: Sistema Solutions
-🌍 **Based in**: Pakistan | UTC+05:00  
-📬 **Reach me at**: junaidsupercoder@gmail.com  
+🌐 **Portfolio & case studies**: [junaidjamel.com](https://www.junaidjamel.com)  
+🏢 **Currently at**: Sistema Solutions  
+📍 Pakistan · UTC+05:00  
+📬 junaidsupercoder@gmail.com
 
 ---
 
-### 🌐 Connect with me:
+## Featured work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel-6298bb26b) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel) [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
+> Full writeups and screenshots at [junaidjamel.com](https://www.junaidjamel.com)
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project Name]** | [One-line description of what it solves and for whom] | Flutter · Firebase · BLoC |
+| **[Project Name]** | [One-line description] | MQTT · Hive · Clean Arch |
+| **[Project Name]** | [One-line description] | GraphQL · AppSync · GetX |
+| **[Project Name]** | [One-line description] | AWS Cognito · Riverpod · REST |
+
+*Replace the rows above with your actual projects from your portfolio.*
+
 ---
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman)](https://skillicons.dev)
-<br><br>
+## Stack
 
+**Mobile** · Flutter · Dart · BLoC · Riverpod · GetX · Provider · GoRouter
 
+**Cloud & Backend** · Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AWS Cognito · GraphQL · AppSync · REST · MQTT · SOAP
 
+**Architecture** · Clean Architecture · MVVM · MVC
 
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br> -->
+**DevOps & Tools** · Git · Docker · Codemagic · Shorebird · GitHub Actions · JIRA · Postman
 
+**Storage** · SQLite · Hive · Caching
 
+**Other** · AdMob · Push Notifications · Unit Testing · Threading (Isolates) · App Publishing
 
+---
 
-</p>
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=JunaidJameel&label=Profile%20views&color=0e75b6&style=flat" alt="JunaidJameel" /> 
+## Experience
 
-</p>
+**Flutter Engineer** — Sistema Solutions *(current)*  
+**Software Engineer (Flutter)** — Dcodax Pvt. Ltd  
+**Flutter Developer** — Funsol Technologies  
+**Flutter Developer** — Dedev  
 
+---
 
-<img src="https://i.pinimg.com/originals/82/0d/58/820d58e0feed0ba879d62b9c5834225c.gif" height="300" width="50%">
+## Connect
 
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel-6298bb26b)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-junaidjamel.com-333?style=flat-square)](https://www.junaidjamel.com)
