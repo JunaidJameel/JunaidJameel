@@ -22,9 +22,9 @@ I focus on clean architecture, performance, and real business impact, from proto
 
 **DevOps & Tools** · Git · Docker · Codemagic · Shorebird · GitHub Actions · JIRA · Postman
 
-**Storage** · SQLite · Hive · Caching
+**Storage** · Isar · Hive · Caching
 
-**Other** · AdMob · Push Notifications · Unit Testing · Threading (Isolates) · App Publishing
+**Other** · Push Notifications · Unit Testing · Threading (Isolates) · App Publishing
 
 ---
 
