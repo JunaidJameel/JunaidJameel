@@ -1,6 +1,6 @@
 # Junaid Jamel
 
-**Flutter Engineer** · Building scalable, AI-powered cross-platform apps for 4+ years.
+**Flutter Engineer** · Building scalable, AI-powered cross-platform apps.
 
 I focus on clean architecture, performance, and real business impact — from prototyping to App Store / Play Store delivery.
 
