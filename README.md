@@ -34,18 +34,8 @@ Currently at **Sistema Solutions** · 📍 Pakistan · UTC+05:00
 
 ---
 
-## GitHub Stats
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JunaidJamel&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FFCC00&text_color=ffffff&border_color=30363d&count_private=true&hide_rank=false"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidJamel&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&text_color=ffffff&border_color=30363d&langs_count=5"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:FF6B35,100:FFCC00&height=100&section=footer" />
-</div>
