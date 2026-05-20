@@ -7,7 +7,7 @@ I focus on clean architecture, performance, and real business impact, from proto
 🌐 **Portfolio & case studies**: [junaidjamel.com](https://www.junaidjamel.com)  
 🏢 **Currently at**: Sistema Solutions  
 📍 Pakistan · UTC+05:00  
-📬 junaidsupercoder@gmail.com
+📮junaidsupercoder@gmail.com
 
 ---
 
