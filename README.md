@@ -16,7 +16,7 @@ I focus on clean architecture, performance, and real business impact, from proto
 
 **Mobile** · Flutter · Dart · BLoC · Riverpod · GetX · Provider · GoRouter
 
-**Cloud & Backend** · Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AWS Cognito · GraphQL · AppSync · REST · MQTT · SOAP
+**Cloud & Backend** · Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · GraphQL · AppSync · REST · MQTT 
 
 **Architecture** · Clean Architecture · MVVM · MVC
 
