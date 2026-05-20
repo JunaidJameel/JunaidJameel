@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=200&section=header&text=Junaid%20Jamel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%E2%80%A2%20AI-Powered%20Apps%20%E2%80%A2%20Pakistan&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=200&section=header&text=Junaid%20Jamel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Engineer%20%E2%80%A2%20descSize=18&animation=fadeIn" />
 
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-junaidjamel.com-FF6B35?style=for-the-badge&logoColor=white)](https://junaidjamel.com)
