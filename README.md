@@ -21,15 +21,15 @@ Currently at **Sistema Solutions** · 📍 Pakistan · UTC+05:00
 
 ## Stack
 
-**Mobile** — Flutter · Dart · BLoC · Riverpod · GetX · Provider · GoRouter
+**Mobile** — Flutter · Dart · BLoC · Provider · GetX · GoRouter
 
-**Cloud & Backend** — Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · GraphQL · AppSync · REST
+**Cloud & Backend** — Firebase (Auth, Firestore, Storage, Hosting, Analytics, Crashlytics) · AppSync · REST
 
 **Architecture** — Clean Architecture · MVVM · MVC
 
-**DevOps & Tools** — Git · Docker · Codemagic · Shorebird · GitHub Actions · JIRA · Postman
+**DevOps & Tools** — Git · Codemagic · GitHub Actions · JIRA · Postman
 
-**Storage** — Isar · Hive · Caching
+**Storage** — Isar · Hive · Shared Prefrence
 
 
 
