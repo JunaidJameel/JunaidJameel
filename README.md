@@ -7,7 +7,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Junaid_Jamel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidsupercoder@gmail.com)
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fjunaidjamel&style=flat)](https://rankistan.dev)
+
 
 </div>
 
@@ -41,4 +41,4 @@ Currently at **Sistema Solutions** · 📍 Pakistan · UTC+05:00
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-jamel)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Junaid_Jamel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
-
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fjunaidjamel&style=flat)](https://rankistan.dev)
