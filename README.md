@@ -4,8 +4,6 @@
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-junaidjamel.com-FF6B35?style=for-the-badge&logoColor=white)](https://junaidjamel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-jamel)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Junaid_Jamel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junaid_jamel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidsupercoder@gmail.com)
 
 
