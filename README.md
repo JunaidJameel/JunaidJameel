@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=900&lines=Junaid+Jameel;Flutter+Engineer;Crafting+Scalable+Cross-Platform+Apps;Clean+Architecture+%7C+Exceptional+UX" />
-</p>
+# Hi, I'm Junaid 👋
 
 ### Flutter Engineer
 
