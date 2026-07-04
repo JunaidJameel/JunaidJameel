@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,18,24&height=180&section=header&text=Junaid%20Jameel&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=14,18,24&height=200&section=header&text=Junaid%20Jameel&fontSize=56&fontColor=ffffff"/>
 ### Flutter Engineer
 
 Building scalable mobile applications and thoughtful user experiences.
