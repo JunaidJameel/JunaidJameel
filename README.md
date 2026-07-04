@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1500&color=FF8C42&center=true&vCenter=true&width=700&lines=Flutter+Engineer;Building+Scalable+Mobile+Apps;Crafting+Thoughtful+User+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1500&color=FF8C42&center=true&vCenter=true&width=700&lines=Junaid Jamel;Building+Scalable+Mobile+Apps;Crafting+Thoughtful+User+Experiences" />
 </p>
 
 ### Flutter Engineer
