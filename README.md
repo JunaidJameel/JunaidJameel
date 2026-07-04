@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:FF6B35,100:1a1a2e&height=220&section=header&text=Junaid%20Jamel&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,18,24&height=180&section=header&text=Junaid%20Jameel&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 
 ### Flutter Engineer
 
