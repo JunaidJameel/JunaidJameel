@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Junaid%20Jameel&fontSize=56&fontColor=ffffff&animation=fadeIn"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1500&color=FF8C42&center=true&vCenter=true&width=700&lines=Flutter+Engineer;Building+Scalable+Mobile+Apps;Crafting+Thoughtful+User+Experiences" />
+</p>
 
 ### Flutter Engineer
 
