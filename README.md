@@ -2,7 +2,7 @@
 
 # Hi, I'm Junaid 👋
 
-### IOS Engineer
+### IOS x Flutter Engineer
 
 Building scalable mobile applications and thoughtful user experiences.
 
