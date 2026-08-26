@@ -4,7 +4,7 @@
 
 ### IOS x Flutter Engineer
 
-Building scalable mobile applications and thoughtful user experiences.
+Building scalable mobile applications with Swift & Flutter
 
 Currently at **Sistema Solutions**
 
